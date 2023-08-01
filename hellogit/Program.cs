@@ -2,4 +2,4 @@
 
 Console.WriteLine("Hello, World!");
 Console.WriteLine("My Git");
-Console.WriteLine("Good Friends!");
+Console.WriteLine("Good Android!");
