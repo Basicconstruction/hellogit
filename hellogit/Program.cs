@@ -2,4 +2,4 @@
 
 Console.WriteLine("Hello, World!");
 Console.WriteLine("My Git");
-Console.WriteLine("Good No Ios!");
+Console.WriteLine("Good Ios!");
